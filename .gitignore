@@ -1,0 +1,11 @@
+# Adding config.py file.
+config.py
+
+#adding addtional files.
+API_Practice.ipynb
+random_numbers.ipynb
+
+#Byte-compiled / optimized / Data
+__pycache__/
+*.py[cod]
+*$py.class
